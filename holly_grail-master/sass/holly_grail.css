@@ -1,0 +1,47 @@
+/* line 1, C:/Users/simon/Desktop/Webutvecklingdicksout 2016-2017/holy grail/holly_grail-master/sass/holly_grail.sass */
+body {
+  background: #555;
+  margin: 0;
+  padding: 0; }
+
+/* line 7, C:/Users/simon/Desktop/Webutvecklingdicksout 2016-2017/holy grail/holly_grail-master/sass/holly_grail.sass */
+.kontainer header {
+  background: orange;
+  height: 100px;
+  padding: 20px;
+  position: fixed;
+  width: 100%; }
+
+/* line 14, C:/Users/simon/Desktop/Webutvecklingdicksout 2016-2017/holy grail/holly_grail-master/sass/holly_grail.sass */
+.kontainer main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: stretch;
+  padding-top: 140px;
+  padding-bottom: 90px; }
+  /* line 24, C:/Users/simon/Desktop/Webutvecklingdicksout 2016-2017/holy grail/holly_grail-master/sass/holly_grail.sass */
+  .kontainer main .sidebar1 {
+    width: 15%;
+    background: yellow; }
+  /* line 28, C:/Users/simon/Desktop/Webutvecklingdicksout 2016-2017/holy grail/holly_grail-master/sass/holly_grail.sass */
+  .kontainer main .text {
+    width: 70%;
+    background: blue; }
+  /* line 32, C:/Users/simon/Desktop/Webutvecklingdicksout 2016-2017/holy grail/holly_grail-master/sass/holly_grail.sass */
+  .kontainer main .sidebar2 {
+    width: 15%;
+    background: yellow; }
+
+/* line 36, C:/Users/simon/Desktop/Webutvecklingdicksout 2016-2017/holy grail/holly_grail-master/sass/holly_grail.sass */
+.kontainer footer {
+  background: orange;
+  height: 50px;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%; }
+
+/*# sourceMappingURL=holly_grail.css.map */
